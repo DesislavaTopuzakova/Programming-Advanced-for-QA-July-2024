@@ -1,0 +1,15 @@
+/Users/desislavatopuzakova/Projects/StringManipulations/04-Text-Filter/bin/Debug/net6.0/04-Text-Filter
+/Users/desislavatopuzakova/Projects/StringManipulations/04-Text-Filter/bin/Debug/net6.0/04-Text-Filter.deps.json
+/Users/desislavatopuzakova/Projects/StringManipulations/04-Text-Filter/bin/Debug/net6.0/04-Text-Filter.runtimeconfig.json
+/Users/desislavatopuzakova/Projects/StringManipulations/04-Text-Filter/bin/Debug/net6.0/04-Text-Filter.dll
+/Users/desislavatopuzakova/Projects/StringManipulations/04-Text-Filter/bin/Debug/net6.0/04-Text-Filter.pdb
+/Users/desislavatopuzakova/Projects/StringManipulations/04-Text-Filter/obj/Debug/net6.0/04-Text-Filter.csproj.AssemblyReference.cache
+/Users/desislavatopuzakova/Projects/StringManipulations/04-Text-Filter/obj/Debug/net6.0/04-Text-Filter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desislavatopuzakova/Projects/StringManipulations/04-Text-Filter/obj/Debug/net6.0/04-Text-Filter.AssemblyInfoInputs.cache
+/Users/desislavatopuzakova/Projects/StringManipulations/04-Text-Filter/obj/Debug/net6.0/04-Text-Filter.AssemblyInfo.cs
+/Users/desislavatopuzakova/Projects/StringManipulations/04-Text-Filter/obj/Debug/net6.0/04-Text-Filter.csproj.CoreCompileInputs.cache
+/Users/desislavatopuzakova/Projects/StringManipulations/04-Text-Filter/obj/Debug/net6.0/04-Text-Filter.dll
+/Users/desislavatopuzakova/Projects/StringManipulations/04-Text-Filter/obj/Debug/net6.0/refint/04-Text-Filter.dll
+/Users/desislavatopuzakova/Projects/StringManipulations/04-Text-Filter/obj/Debug/net6.0/04-Text-Filter.pdb
+/Users/desislavatopuzakova/Projects/StringManipulations/04-Text-Filter/obj/Debug/net6.0/04-Text-Filter.genruntimeconfig.cache
+/Users/desislavatopuzakova/Projects/StringManipulations/04-Text-Filter/obj/Debug/net6.0/ref/04-Text-Filter.dll

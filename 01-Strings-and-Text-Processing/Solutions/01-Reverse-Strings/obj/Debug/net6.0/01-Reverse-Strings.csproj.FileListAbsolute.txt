@@ -1,0 +1,15 @@
+/Users/desislavatopuzakova/Projects/StringManipulations/01-Reverse-Strings/bin/Debug/net6.0/01-Reverse-Strings
+/Users/desislavatopuzakova/Projects/StringManipulations/01-Reverse-Strings/bin/Debug/net6.0/01-Reverse-Strings.deps.json
+/Users/desislavatopuzakova/Projects/StringManipulations/01-Reverse-Strings/bin/Debug/net6.0/01-Reverse-Strings.runtimeconfig.json
+/Users/desislavatopuzakova/Projects/StringManipulations/01-Reverse-Strings/bin/Debug/net6.0/01-Reverse-Strings.dll
+/Users/desislavatopuzakova/Projects/StringManipulations/01-Reverse-Strings/bin/Debug/net6.0/01-Reverse-Strings.pdb
+/Users/desislavatopuzakova/Projects/StringManipulations/01-Reverse-Strings/obj/Debug/net6.0/01-Reverse-Strings.csproj.AssemblyReference.cache
+/Users/desislavatopuzakova/Projects/StringManipulations/01-Reverse-Strings/obj/Debug/net6.0/01-Reverse-Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desislavatopuzakova/Projects/StringManipulations/01-Reverse-Strings/obj/Debug/net6.0/01-Reverse-Strings.AssemblyInfoInputs.cache
+/Users/desislavatopuzakova/Projects/StringManipulations/01-Reverse-Strings/obj/Debug/net6.0/01-Reverse-Strings.AssemblyInfo.cs
+/Users/desislavatopuzakova/Projects/StringManipulations/01-Reverse-Strings/obj/Debug/net6.0/01-Reverse-Strings.csproj.CoreCompileInputs.cache
+/Users/desislavatopuzakova/Projects/StringManipulations/01-Reverse-Strings/obj/Debug/net6.0/01-Reverse-Strings.dll
+/Users/desislavatopuzakova/Projects/StringManipulations/01-Reverse-Strings/obj/Debug/net6.0/refint/01-Reverse-Strings.dll
+/Users/desislavatopuzakova/Projects/StringManipulations/01-Reverse-Strings/obj/Debug/net6.0/01-Reverse-Strings.pdb
+/Users/desislavatopuzakova/Projects/StringManipulations/01-Reverse-Strings/obj/Debug/net6.0/01-Reverse-Strings.genruntimeconfig.cache
+/Users/desislavatopuzakova/Projects/StringManipulations/01-Reverse-Strings/obj/Debug/net6.0/ref/01-Reverse-Strings.dll
