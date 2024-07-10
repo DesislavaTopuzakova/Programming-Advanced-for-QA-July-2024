@@ -1,0 +1,15 @@
+/Users/desislavatopuzakova/Projects/StringManipulations/SB-vs-string/bin/Debug/net6.0/SB-vs-string
+/Users/desislavatopuzakova/Projects/StringManipulations/SB-vs-string/bin/Debug/net6.0/SB-vs-string.deps.json
+/Users/desislavatopuzakova/Projects/StringManipulations/SB-vs-string/bin/Debug/net6.0/SB-vs-string.runtimeconfig.json
+/Users/desislavatopuzakova/Projects/StringManipulations/SB-vs-string/bin/Debug/net6.0/SB-vs-string.dll
+/Users/desislavatopuzakova/Projects/StringManipulations/SB-vs-string/bin/Debug/net6.0/SB-vs-string.pdb
+/Users/desislavatopuzakova/Projects/StringManipulations/SB-vs-string/obj/Debug/net6.0/SB-vs-string.csproj.AssemblyReference.cache
+/Users/desislavatopuzakova/Projects/StringManipulations/SB-vs-string/obj/Debug/net6.0/SB-vs-string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desislavatopuzakova/Projects/StringManipulations/SB-vs-string/obj/Debug/net6.0/SB-vs-string.AssemblyInfoInputs.cache
+/Users/desislavatopuzakova/Projects/StringManipulations/SB-vs-string/obj/Debug/net6.0/SB-vs-string.AssemblyInfo.cs
+/Users/desislavatopuzakova/Projects/StringManipulations/SB-vs-string/obj/Debug/net6.0/SB-vs-string.csproj.CoreCompileInputs.cache
+/Users/desislavatopuzakova/Projects/StringManipulations/SB-vs-string/obj/Debug/net6.0/SB-vs-string.dll
+/Users/desislavatopuzakova/Projects/StringManipulations/SB-vs-string/obj/Debug/net6.0/refint/SB-vs-string.dll
+/Users/desislavatopuzakova/Projects/StringManipulations/SB-vs-string/obj/Debug/net6.0/SB-vs-string.pdb
+/Users/desislavatopuzakova/Projects/StringManipulations/SB-vs-string/obj/Debug/net6.0/SB-vs-string.genruntimeconfig.cache
+/Users/desislavatopuzakova/Projects/StringManipulations/SB-vs-string/obj/Debug/net6.0/ref/SB-vs-string.dll
