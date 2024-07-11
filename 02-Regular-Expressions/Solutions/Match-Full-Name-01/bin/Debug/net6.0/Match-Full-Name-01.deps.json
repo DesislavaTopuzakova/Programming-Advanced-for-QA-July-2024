@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Match-Full-Name-01/1.0.0": {
+        "runtime": {
+          "Match-Full-Name-01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Match-Full-Name-01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

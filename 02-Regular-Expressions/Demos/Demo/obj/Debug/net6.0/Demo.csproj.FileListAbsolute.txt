@@ -1,0 +1,15 @@
+/Users/desislavatopuzakova/Projects/RegularExpressions/Demo/bin/Debug/net6.0/Demo
+/Users/desislavatopuzakova/Projects/RegularExpressions/Demo/bin/Debug/net6.0/Demo.deps.json
+/Users/desislavatopuzakova/Projects/RegularExpressions/Demo/bin/Debug/net6.0/Demo.runtimeconfig.json
+/Users/desislavatopuzakova/Projects/RegularExpressions/Demo/bin/Debug/net6.0/Demo.dll
+/Users/desislavatopuzakova/Projects/RegularExpressions/Demo/bin/Debug/net6.0/Demo.pdb
+/Users/desislavatopuzakova/Projects/RegularExpressions/Demo/obj/Debug/net6.0/Demo.csproj.AssemblyReference.cache
+/Users/desislavatopuzakova/Projects/RegularExpressions/Demo/obj/Debug/net6.0/Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desislavatopuzakova/Projects/RegularExpressions/Demo/obj/Debug/net6.0/Demo.AssemblyInfoInputs.cache
+/Users/desislavatopuzakova/Projects/RegularExpressions/Demo/obj/Debug/net6.0/Demo.AssemblyInfo.cs
+/Users/desislavatopuzakova/Projects/RegularExpressions/Demo/obj/Debug/net6.0/Demo.csproj.CoreCompileInputs.cache
+/Users/desislavatopuzakova/Projects/RegularExpressions/Demo/obj/Debug/net6.0/Demo.dll
+/Users/desislavatopuzakova/Projects/RegularExpressions/Demo/obj/Debug/net6.0/refint/Demo.dll
+/Users/desislavatopuzakova/Projects/RegularExpressions/Demo/obj/Debug/net6.0/Demo.pdb
+/Users/desislavatopuzakova/Projects/RegularExpressions/Demo/obj/Debug/net6.0/Demo.genruntimeconfig.cache
+/Users/desislavatopuzakova/Projects/RegularExpressions/Demo/obj/Debug/net6.0/ref/Demo.dll

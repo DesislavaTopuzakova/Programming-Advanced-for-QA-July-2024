@@ -76,11 +76,11 @@ string longSentence = "My name is John";
 string extractWord = longSentence.Substring(11);
 Console.WriteLine(extractWord); // "John"
 
-//2. Substring(int startIndex, int endIndex)
-//взима текста от дадената начална позиция до крайната позиция (не включва символа на крайната позиция)
-string card = "10C";
-string power = card.Substring(0, 2);
-Console.WriteLine(power); // 10
+//2. Substring(int startIndex, int length)
+string sentence = "My name is John";
+string word = sentence.Substring(11, 2);
+Console.WriteLine(word); // "Jo"
+
 
 //Remove -> премахва символи от текста, започвайки от дадена позиция
 string title = "House of Dragon";
