@@ -1,18 +1,17 @@
-﻿using System.Text.RegularExpressions;
+using System.Text.RegularExpressions;
 
 string text = Console.ReadLine();
+Regex regexDate = new Regex(@"(?<day>[0-9]{2})(?<separator>[\.\-\/])(?<month>[A-Z][a-z]{2})\k<separator>(?<year>[0-9]{4})");
+MatchCollection validDates = regexDate.Matches(text);
 
-string patern = @"(?'day'\d{2})(?'del'[\/\.\-])(?'month'[A-Z][[a-z]{2})\'del'(?'year'\d{4})";
+//validDates = ["13/Jul/1928", "10-Nov-1934", "25.Dec.1937"]
 
-Regex regex = new Regex(patern);
-
-MatchCollection matches = regex.Matches(text);
-
-foreach (Match match in matches)
+foreach (Match validDate in validDates)
 {
-    string day = match.Groups["day"].Value;
-    string month = match.Groups["month"].Value;
-    string year = match.Groups["year"].Value;
+    //validDate = "13/Jul/1928"
+    string day = validDate.Groups["day"].Value; //"13"
+    string month = validDate.Groups["month"].Value; //"Jul"
+    string year = validDate.Groups["year"].Value; //"1928"
 
     Console.WriteLine($"Day: {day}, Month: {month}, Year: {year}");
 }
