@@ -37,4 +37,4 @@ foreach(char symbol in text)
 
 Console.WriteLine(sbDigits);
 Console.WriteLine(sbLetters);
-Console.WriteLine(sb);
+Console.WriteLine(sbOthers);
