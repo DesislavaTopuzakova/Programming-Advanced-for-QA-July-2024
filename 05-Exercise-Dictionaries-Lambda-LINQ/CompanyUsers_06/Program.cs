@@ -30,3 +30,8 @@ while (input != "End")
     input = Console.ReadLine();
 }
 
+foreach (KeyValuePair<string, List<string>> entry in companyEmployees)
+{
+ Console.WriteLine(entry.Key);
+ entry.Value.ForEach(employee => Console.WriteLine("-- " + employee));
+}
