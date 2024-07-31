@@ -1,4 +1,4 @@
-﻿public class Program
+public class Program
 {
     public static void Main(string[] args)
     {
@@ -42,7 +42,7 @@
         foreach (Box box in sortedBoxesList)
         {
             Console.WriteLine(box.SerialNumber);
-            Console.WriteLine($"-- {box.Item.Name} – ${box.Item.Price:F2}: {box.ItemQuantity}");
+            Console.WriteLine($"-- {box.Item.Name} - ${box.Item.Price:F2}: {box.ItemQuantity}");
             Console.WriteLine($"-- ${box.Price:F2}");
         }
     }
