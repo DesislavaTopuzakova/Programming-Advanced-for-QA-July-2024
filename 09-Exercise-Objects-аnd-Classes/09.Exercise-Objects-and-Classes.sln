@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.34909.67
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Students", "01.Students\01.Students.csproj", "{74829EE0-AA13-44AD-9F55-89F323561F9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Students", "01.Students\01.Students.csproj", "{74829EE0-AA13-44AD-9F55-89F323561F9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Articles", "02.Articles\02.Articles.csproj", "{C750A967-E355-4CF4-83C3-C497B2913A1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Articles", "02.Articles\02.Articles.csproj", "{C750A967-E355-4CF4-83C3-C497B2913A1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.TeamworkProjects", "03.TeamworkProjects\03.TeamworkProjects.csproj", "{6D477ED0-B0CC-4D3B-AEF7-4E414F03949B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.TeamworkProjects", "03.TeamworkProjects\03.TeamworkProjects.csproj", "{6D477ED0-B0CC-4D3B-AEF7-4E414F03949B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PokemonTrainer", "04.PokemonTrainer\04.PokemonTrainer.csproj", "{C17703E2-5B9B-483A-82BF-2EFDE5AB1AE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{6D477ED0-B0CC-4D3B-AEF7-4E414F03949B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D477ED0-B0CC-4D3B-AEF7-4E414F03949B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D477ED0-B0CC-4D3B-AEF7-4E414F03949B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C17703E2-5B9B-483A-82BF-2EFDE5AB1AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C17703E2-5B9B-483A-82BF-2EFDE5AB1AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C17703E2-5B9B-483A-82BF-2EFDE5AB1AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C17703E2-5B9B-483A-82BF-2EFDE5AB1AE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
